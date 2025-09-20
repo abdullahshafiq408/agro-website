@@ -65,7 +65,7 @@ After Improvement:
 -Matesub for generating vtt files 
 
 # Repository Link
-https://github.com/your-username/agro-website.git
+https://abdullahshafiq408.github.io/agro-website/
 
 # Authors
 Abdullah Shafiq | Hassan Ali Pansota – [GitHub Profile](https://github.com/abdullahshafiq408)  
