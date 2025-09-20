@@ -50,12 +50,12 @@ Responsive & Mobile-First Design: Improves engagement and SEO metrics.
 
 # Lighthouse Screenshots
 Before Improvement: 
-[Before Screenshot](assets/images/before.png)
+[Before Screenshot](https://raw.githubusercontent.com/abdullahshafiq408/agro-website/main/assets/images/before.png)
 
 After Improvement: 
-[After Screenshot](assets/images/after_0.png)
-[After Screenshot](assets/images/after_1.png)
-[After Screenshot](assets/images/after_2.png)
+[After Screenshot](https://raw.githubusercontent.com/abdullahshafiq408/agro-website/main/assets/images/after_0.png)
+[After Screenshot](https://raw.githubusercontent.com/abdullahshafiq408/agro-website/main/assets/images/after_1.png)
+[After Screenshot](https://raw.githubusercontent.com/abdullahshafiq408/agro-website/main/assets/images/after_2.png)
 
 # Technologies Used
 -HTML5 & CSS3  
